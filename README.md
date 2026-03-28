@@ -1,6 +1,6 @@
 # 💫 About Me:
 An undergraduate student majoring in Information Technology with a strong interest in Back-End Development. I have hands-on experience building web applications using Laravel for backend development and Vue.js for frontend frameworks.
-🔭 Currently, I am expanding my skill set by learning Flutter for cross-platform mobile application development, aiming to build scalable and efficient mobile solutions.
+<br>🔭 Currently, I am expanding my skill set by learning Flutter for cross-platform mobile application development, aiming to build scalable and efficient mobile solutions.
 
 
 ## 🌐 Socials:
